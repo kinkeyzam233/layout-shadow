@@ -1,0 +1,42 @@
+h1{
+    padding: 20px;
+    margin: 20px;
+    border: 30 solid red;
+    position: sticky;
+}
+div{
+    background-color: rgba(0, 255, 255, 0.037)
+}
+nav a{
+    display: block table;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 10px;
+   }
+   footer {
+    display:block;
+    background-color: hsla(39, 81%, 49%, 0.7);
+    position: relative;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 0.9em;
+    text-align: center;
+    border: 15px solid black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+   }
+div{
+    border: 30px solid black;
+    padding: 30px;
+    margin: 20px;
+}
+img{
+    border: 5px solid black;
+}
+
+
+
+
+
+           
+
+           
